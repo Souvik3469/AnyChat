@@ -1,0 +1,8 @@
+{
+  "jwt": {
+    "expiresIn": "7d"
+  },
+  "password": {
+    "minLength": 8
+  }
+}
